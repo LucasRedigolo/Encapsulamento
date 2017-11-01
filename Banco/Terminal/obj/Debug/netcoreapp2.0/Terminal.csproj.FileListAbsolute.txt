@@ -1,0 +1,12 @@
+c:\Users\43692939876\Desktop\Projetos\Encapsulamento\Banco\Terminal\bin\Debug\netcoreapp2.0\Terminal.deps.json
+c:\Users\43692939876\Desktop\Projetos\Encapsulamento\Banco\Terminal\bin\Debug\netcoreapp2.0\Terminal.runtimeconfig.json
+c:\Users\43692939876\Desktop\Projetos\Encapsulamento\Banco\Terminal\bin\Debug\netcoreapp2.0\Terminal.runtimeconfig.dev.json
+c:\Users\43692939876\Desktop\Projetos\Encapsulamento\Banco\Terminal\bin\Debug\netcoreapp2.0\Terminal.dll
+c:\Users\43692939876\Desktop\Projetos\Encapsulamento\Banco\Terminal\bin\Debug\netcoreapp2.0\Terminal.pdb
+c:\Users\43692939876\Desktop\Projetos\Encapsulamento\Banco\Terminal\obj\Debug\netcoreapp2.0\Terminal.csproj.CoreCompileInputs.cache
+c:\Users\43692939876\Desktop\Projetos\Encapsulamento\Banco\Terminal\obj\Debug\netcoreapp2.0\Terminal.AssemblyInfoInputs.cache
+c:\Users\43692939876\Desktop\Projetos\Encapsulamento\Banco\Terminal\obj\Debug\netcoreapp2.0\Terminal.AssemblyInfo.cs
+c:\Users\43692939876\Desktop\Projetos\Encapsulamento\Banco\Terminal\obj\Debug\netcoreapp2.0\Terminal.dll
+c:\Users\43692939876\Desktop\Projetos\Encapsulamento\Banco\Terminal\obj\Debug\netcoreapp2.0\Terminal.pdb
+c:\Users\43692939876\Desktop\Projetos\Encapsulamento\Banco\Terminal\bin\Debug\netcoreapp2.0\dados.dll
+c:\Users\43692939876\Desktop\Projetos\Encapsulamento\Banco\Terminal\bin\Debug\netcoreapp2.0\dados.pdb

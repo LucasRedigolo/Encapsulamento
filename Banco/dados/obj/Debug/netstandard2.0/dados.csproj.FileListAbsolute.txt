@@ -1,0 +1,8 @@
+c:\Users\43692939876\Desktop\Projetos\Encapsulamento\Banco\dados\bin\Debug\netstandard2.0\dados.deps.json
+c:\Users\43692939876\Desktop\Projetos\Encapsulamento\Banco\dados\bin\Debug\netstandard2.0\dados.dll
+c:\Users\43692939876\Desktop\Projetos\Encapsulamento\Banco\dados\bin\Debug\netstandard2.0\dados.pdb
+c:\Users\43692939876\Desktop\Projetos\Encapsulamento\Banco\dados\obj\Debug\netstandard2.0\dados.csproj.CoreCompileInputs.cache
+c:\Users\43692939876\Desktop\Projetos\Encapsulamento\Banco\dados\obj\Debug\netstandard2.0\dados.AssemblyInfoInputs.cache
+c:\Users\43692939876\Desktop\Projetos\Encapsulamento\Banco\dados\obj\Debug\netstandard2.0\dados.AssemblyInfo.cs
+c:\Users\43692939876\Desktop\Projetos\Encapsulamento\Banco\dados\obj\Debug\netstandard2.0\dados.dll
+c:\Users\43692939876\Desktop\Projetos\Encapsulamento\Banco\dados\obj\Debug\netstandard2.0\dados.pdb
