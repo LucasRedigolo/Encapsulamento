@@ -206,6 +206,16 @@
         "runtime": {
           "bin/placeholder/dados.dll": {}
         }
+      },
+      "Util/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Util.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Util.dll": {}
+        }
       }
     }
   },
@@ -671,11 +681,17 @@
       "type": "project",
       "path": "../dados/dados.csproj",
       "msbuildProject": "../dados/dados.csproj"
+    },
+    "Util/1.0.0": {
+      "type": "project",
+      "path": "../Util/Util.csproj",
+      "msbuildProject": "../Util/Util.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Microsoft.NETCore.App >= 2.0.0",
+      "Util >= 1.0.0",
       "dados >= 1.0.0"
     ]
   },
@@ -686,11 +702,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\43692939876\\Desktop\\Projetos\\Encapsulamento\\Banco\\Terminal\\Terminal.csproj",
+      "projectUniqueName": "C:\\Users\\43692939876\\Desktop\\Projetos\\Encapsulamento\\Banco\\Terminal\\Terminal.csproj",
       "projectName": "Terminal",
-      "projectPath": "c:\\Users\\43692939876\\Desktop\\Projetos\\Encapsulamento\\Banco\\Terminal\\Terminal.csproj",
+      "projectPath": "C:\\Users\\43692939876\\Desktop\\Projetos\\Encapsulamento\\Banco\\Terminal\\Terminal.csproj",
       "packagesPath": "C:\\Users\\43692939876\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\43692939876\\Desktop\\Projetos\\Encapsulamento\\Banco\\Terminal\\obj\\",
+      "outputPath": "C:\\Users\\43692939876\\Desktop\\Projetos\\Encapsulamento\\Banco\\Terminal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -707,8 +723,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "c:\\Users\\43692939876\\Desktop\\Projetos\\Encapsulamento\\Banco\\dados\\dados.csproj": {
-              "projectPath": "c:\\Users\\43692939876\\Desktop\\Projetos\\Encapsulamento\\Banco\\dados\\dados.csproj"
+            "C:\\Users\\43692939876\\Desktop\\Projetos\\Encapsulamento\\Banco\\dados\\dados.csproj": {
+              "projectPath": "C:\\Users\\43692939876\\Desktop\\Projetos\\Encapsulamento\\Banco\\dados\\dados.csproj"
+            },
+            "C:\\Users\\43692939876\\Desktop\\Projetos\\Encapsulamento\\Banco\\Util\\Util.csproj": {
+              "projectPath": "C:\\Users\\43692939876\\Desktop\\Projetos\\Encapsulamento\\Banco\\Util\\Util.csproj"
             }
           }
         }

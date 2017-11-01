@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\dados\dados.csproj" />
+    <ProjectReference Include="..\Util\Util.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
