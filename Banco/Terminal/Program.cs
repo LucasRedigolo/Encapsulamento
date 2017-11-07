@@ -22,23 +22,23 @@ namespace Terminal
                 //Recebe opção do usuário
                 switch (opcao) 
                 {
-                    case 1:
+                    case 1:                        
                         Cliente c1 = new Cliente();
                         c1.CadastroPessoa();
                         break;
 
-                    case 2:
+                    case 2:                        
                         Conta c = new Conta();
                         c.Sacar();
                         break;
                         
-                    case 3:
-                        REALIZAR DEPÓSITO
-                        break;
+                 //   case 3:
+                 //       REALIZAR DEPÓSITO
+                       // break;
 
-                    case 4:
-                        ExtratoCliente();
-                        break;
+                 //   case 4:
+                   //     ExtratoCliente();
+                     //   break;
                 }
             }
             while (opcao != 9);
