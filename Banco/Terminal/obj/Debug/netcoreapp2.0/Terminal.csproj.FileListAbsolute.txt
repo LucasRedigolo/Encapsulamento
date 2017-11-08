@@ -10,3 +10,5 @@ c:\Users\43692939876\Desktop\Projetos\Encapsulamento\Banco\Terminal\obj\Debug\ne
 c:\Users\43692939876\Desktop\Projetos\Encapsulamento\Banco\Terminal\obj\Debug\netcoreapp2.0\Terminal.pdb
 c:\Users\43692939876\Desktop\Projetos\Encapsulamento\Banco\Terminal\bin\Debug\netcoreapp2.0\dados.dll
 c:\Users\43692939876\Desktop\Projetos\Encapsulamento\Banco\Terminal\bin\Debug\netcoreapp2.0\dados.pdb
+c:\Users\43692939876\Desktop\Projetos\Encapsulamento\Banco\Terminal\bin\Debug\netcoreapp2.0\Util.dll
+c:\Users\43692939876\Desktop\Projetos\Encapsulamento\Banco\Terminal\bin\Debug\netcoreapp2.0\Util.pdb

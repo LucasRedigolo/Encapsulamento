@@ -15,7 +15,6 @@ namespace Terminal
                 Console.WriteLine("1 - Cadastrar Cliente");
                 Console.WriteLine("2 - Realizar saque");
                 Console.WriteLine("3 - Realizar Depósito");
-                Console.WriteLine("4 - Extrato");
                 Console.WriteLine("9 - Sair");
                 opcao = Int16.Parse(Console.ReadLine());
                 
@@ -36,9 +35,6 @@ namespace Terminal
                  //       REALIZAR DEPÓSITO
                        // break;
 
-                 //   case 4:
-                   //     ExtratoCliente();
-                     //   break;
                 }
             }
             while (opcao != 9);

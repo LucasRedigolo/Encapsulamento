@@ -18,7 +18,7 @@ namespace dados
         /// Retira uma quantidade da conta 
         /// </summary>
         /// <param name="valor">Indica o valor a ser sacado</param>
-        public virtual double Sacar(double valor) //VIRTUAL serve para usar o metodo com algumas alterações em suas classes FILHO (com heranca da classe principal)
+        public virtual void Sacar() //VIRTUAL serve para usar o metodo com algumas alterações em suas classes FILHO (com heranca da classe principal)
         {
             bool cpfvalido = true;
             do
@@ -40,11 +40,11 @@ namespace dados
                     System.Console.WriteLine("Qual o valor do saque?");
                     saque = Convert.ToDouble(Console.ReadLine());
 
-                    return (Saldo - saque);
+                    System.Console.WriteLine(MeuSaldo() - saque);
                 }
 
             } while (cpfvalido == false);
-                
+
         }
         /// <summary>
         /// Realiza um depósito na conta do cliente 

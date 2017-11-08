@@ -43,6 +43,7 @@ public class Cliente
                     contador += 1;
                 } while (ex.Cells[contador, 1].Value != null);
 
+                StreamWriter excel = new StreamWriter("Cliente.csv");
                 FileInfo Arquivo = new FileInfo("Cliente.csv");
 
                 if (Arquivo.Length == 0)
